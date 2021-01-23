@@ -14,6 +14,7 @@ public class Read_Excel {
 	@Test
 	void readExcel()
 	{
+		//This is to read excel file
 		String [][] excel_data= null;
 		File src= new File("./Data_Folder/HRM_Data.xlsx");
 		try {
