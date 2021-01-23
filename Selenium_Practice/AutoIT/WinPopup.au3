@@ -1,0 +1,5 @@
+WinWaitActive(WinGetTitle("[ACTIVE]"))
+Send("GanesaR")
+Send("{TAB}")
+Send("General456")
+Send("{ENTER}")
