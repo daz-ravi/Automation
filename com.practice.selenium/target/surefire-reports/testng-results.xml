@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8863" started-at="2021-01-26T10:33:49Z" finished-at="2021-01-26T10:33:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8863" started-at="2021-01-26T10:33:49Z" finished-at="2021-01-26T10:33:58Z">
+      <class name="com.practice.selenium.DemoforMaven">
+        <test-method status="PASS" signature="testHello()[pri:0, instance:com.practice.selenium.DemoforMaven@3b6eb2ec]" name="testHello" duration-ms="8810" started-at="2021-01-26T10:33:49Z" finished-at="2021-01-26T10:33:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHello -->
+      </class> <!-- com.practice.selenium.DemoforMaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

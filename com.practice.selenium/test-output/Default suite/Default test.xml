@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="AGLS-LT-272" name="com.practice.selenium.DemoforMaven" tests="1" failures="0" timestamp="26 Jan 2021 08:06:16 GMT" time="7.946" errors="0">
+  <testcase name="testHello" time="7.936" classname="com.practice.selenium.DemoforMaven"/>
+</testsuite>
