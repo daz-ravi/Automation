@@ -3,6 +3,7 @@ package com.practice.maven.test;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
 
 import atu.testng.reports.ATUReports;
 import atu.testng.reports.listeners.ATUReportsListener;
@@ -17,6 +18,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 @Listeners({ ATUReportsListener.class, ConfigurationListener.class, MethodListener.class })
 public class Browser_Launch {
 
+	@Test
 	public void b_launch()
 	{
 		System.out.println("Welcome to Maven World");
